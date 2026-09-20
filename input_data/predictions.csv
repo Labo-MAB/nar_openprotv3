@@ -1,0 +1,73 @@
+species_sn,labels,values,colors
+HS,"AltProts
+3,559,445",3559445,#0000feff
+HS,"Novel Isoforms
+198,226",198226,#1e8fffff
+HS,"RefProts
+387,352",387352,#01008bff
+MM,"AltProts
+2,125,393",2125393,#0000feff
+MM,"Novel Isoforms
+88,122",88122,#1e8fffff
+MM,"RefProts
+182,332",182332,#01008bff
+RN,"AltProts
+1,838,455",1838455,#0000feff
+RN,"Novel Isoforms
+28,650",28650,#1e8fffff
+RN,"RefProts
+140,593",140593,#01008bff
+CE,"AltProts
+220,604",220604,#0000feff
+CE,"Novel Isoforms
+5,875",5875,#1e8fffff
+CE,"RefProts
+61,630",61630,#01008bff
+XT,"AltProts
+699,986",699986,#0000feff
+XT,"Novel Isoforms
+11,935",11935,#1e8fffff
+XT,"RefProts
+98,063",98063,#01008bff
+SC,"AltProts
+21,414",21414,#0000feff
+SC,"Novel Isoforms
+126",126,#1e8fffff
+SC,"RefProts
+12,787",12787,#01008bff
+DR,"AltProts
+644,749",644749,#0000feff
+DR,"Novel Isoforms
+14,051",14051,#1e8fffff
+DR,"RefProts
+100,530",100530,#01008bff
+PT,"AltProts
+959,671",959671,#0000feff
+PT,"Novel Isoforms
+30,914",30914,#1e8fffff
+PT,"RefProts
+128,874",128874,#01008bff
+DM,"AltProts
+377,450",377450,#0000feff
+DM,"Novel Isoforms
+7,016",7016,#1e8fffff
+DM,"RefProts
+63,906",63906,#01008bff
+BT,"AltProts
+1,170,848",1170848,#0000feff
+BT,"Novel Isoforms
+20,193",20193,#1e8fffff
+BT,"RefProts
+117,568",117568,#01008bff
+OA,"AltProts
+790,592",790592,#0000feff
+OA,"Novel Isoforms
+5,427",5427,#1e8fffff
+OA,"RefProts
+66,831",66831,#01008bff
+AT,"AltProts
+333,655",333655,#0000feff
+AT,"Novel Isoforms
+13,150",13150,#1e8fffff
+AT,"RefProts
+96,662",96662,#01008bff
